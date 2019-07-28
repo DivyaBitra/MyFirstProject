@@ -1,1 +1,2 @@
-const test = () => 'testing';
+const test = () => 'testing'; 
+test()
